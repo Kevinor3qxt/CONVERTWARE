@@ -3,7 +3,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GelatekWasTaken/Gelat
 --- Did actually rework heavily away from original neptunian, and the non-rework neptunian. -- NoobyGames12
 --- Was supposed to be for the770zone, or VengefulProgram.
 
-print("> Running Neptune/Neptunian V by NoobyGames12")
+print("> Running Neptune/Neptunian V by 3qxt")
 print[[// Set your theme by 
 
 id/ [num]
